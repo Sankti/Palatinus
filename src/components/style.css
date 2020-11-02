@@ -1,0 +1,93 @@
+body, html {
+    height: 100vh;
+    margin: 0;
+}
+
+* {
+    text-align: center;
+}
+
+a {
+    color: #742c2c;
+}
+
+body {
+    background-image: linear-gradient(#ffffff, #640000);
+    margin: 0;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    color: #742c2c;
+}
+
+img {
+    float: right;
+}
+
+.mapdiv {
+    text-align: center;
+    height: 100%;
+    margin: auto;
+}
+
+.mapdiv path {
+    fill: #9e414186;
+    stroke: #ffc5c5;
+    stroke-width: 1px;
+    transition: fill 0.3s;
+}
+
+.mapdiv :hover {
+    fill: #ffe8e8;
+}
+
+.container {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: no-wrap;
+}
+
+.sidebar {
+    width: 25vw;
+    padding: 4em;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: column;
+}
+
+.bottom-margined {
+    margin-bottom: 10vh;
+}
+
+.button-round {
+    color: #fff !important;
+    text-transform: uppercase;
+    text-decoration: none;
+    background: #9e414186;
+    padding: 20px;
+    border-radius: 50px;
+    display: inline-block;
+    border: none;
+    transition: all 0.4s ease 0s;
+    margin: 10px;
+}
+
+.button-round:hover {
+    text-shadow: 0px 0px 6px rgba(255, 255, 255, 1);
+    box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
+    -webkit-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
+    -moz-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
+    transition: all 0.4s ease 0s;
+}
+
+.maciej-speech {
+    font-family: "Courier New", Courier, monospace;
+    color: #640000;
+    font-size: 1.1em;
+    font-weight: bold;
+}
+
+.coat {
+    height: 50px;
+}
