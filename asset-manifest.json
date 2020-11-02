@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Palatinus/static/css/main.49e8e6d9.chunk.css",
+    "main.js": "/Palatinus/static/js/main.58b59e32.chunk.js",
+    "main.js.map": "/Palatinus/static/js/main.58b59e32.chunk.js.map",
+    "runtime-main.js": "/Palatinus/static/js/runtime-main.ee8d9ced.js",
+    "runtime-main.js.map": "/Palatinus/static/js/runtime-main.ee8d9ced.js.map",
+    "static/js/2.11670a56.chunk.js": "/Palatinus/static/js/2.11670a56.chunk.js",
+    "static/js/2.11670a56.chunk.js.map": "/Palatinus/static/js/2.11670a56.chunk.js.map",
+    "index.html": "/Palatinus/index.html",
+    "precache-manifest.d22fb468537347749e46603ea50fbb46.js": "/Palatinus/precache-manifest.d22fb468537347749e46603ea50fbb46.js",
+    "service-worker.js": "/Palatinus/service-worker.js",
+    "static/css/main.49e8e6d9.chunk.css.map": "/Palatinus/static/css/main.49e8e6d9.chunk.css.map",
+    "static/js/2.11670a56.chunk.js.LICENSE.txt": "/Palatinus/static/js/2.11670a56.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee8d9ced.js",
+    "static/js/2.11670a56.chunk.js",
+    "static/css/main.49e8e6d9.chunk.css",
+    "static/js/main.58b59e32.chunk.js"
+  ]
+}
